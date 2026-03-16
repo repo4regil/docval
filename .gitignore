@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+docval_env/
+docval_env2/
+.venv/
+venv/
+env/
+
+# Logs and temp files
+logs/
+tmp/
+*.log
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python distribution / build
+build/
+dist/
+*.egg-info/
+
+
